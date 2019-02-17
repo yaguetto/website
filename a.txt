@@ -1,2 +1,0 @@
-<p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+55 11 94800-7281</p>
-<i class="far fa-file-pdf fa-fw w3-margin-right w3-large w3-text-teal"><a href="yagorleme.pdf" target="_blank"></i>Meu currículo em PDF</a></p>
